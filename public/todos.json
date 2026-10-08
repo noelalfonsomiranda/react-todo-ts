@@ -1,0 +1,35 @@
+[
+  {
+    "id": "todo-1",
+    "title": "Build Todo Application",
+    "completed": false,
+    "subTodos": [
+      { "id": "sub-1", "title": "Create React project", "completed": true },
+      { "id": "sub-2", "title": "Create Context API", "completed": true },
+      { "id": "sub-3", "title": "Create reusable components", "completed": true },
+      { "id": "sub-4", "title": "Add tests", "completed": false }
+    ],
+    "createdAt": "2026-10-08T01:00:00.000Z",
+    "updatedAt": "2026-10-08T01:00:00.000Z"
+  },
+  {
+    "id": "todo-2",
+    "title": "Review React Hooks for interview",
+    "completed": false,
+    "subTodos": [
+      { "id": "sub-5", "title": "useState and useReducer", "completed": false },
+      { "id": "sub-6", "title": "useEffect and dependency arrays", "completed": false },
+      { "id": "sub-7", "title": "useMemo vs useCallback", "completed": false }
+    ],
+    "createdAt": "2026-10-07T09:30:00.000Z",
+    "updatedAt": "2026-10-07T09:30:00.000Z"
+  },
+  {
+    "id": "todo-3",
+    "title": "Set up development environment",
+    "completed": true,
+    "subTodos": [],
+    "createdAt": "2026-10-06T14:15:00.000Z",
+    "updatedAt": "2026-10-06T14:15:00.000Z"
+  }
+]

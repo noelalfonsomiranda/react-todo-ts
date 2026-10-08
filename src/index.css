@@ -1,0 +1,8 @@
+/* Keep custom CSS minimal — Ant Design handles almost all styling. */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
